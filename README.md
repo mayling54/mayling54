@@ -8,7 +8,7 @@ I'm a rising junior at Johns Hopkins majoring in Biomedical Engineering (BS/MSE'
 
 What i've worked on in the past (mostly BME research):
 - Simulating multi-cellular spots using single-cell spatially resolved transcriptomics data (MERFISH Ovarian Cancer data) to speed up spatial variable gene analysis while still maintaining high detection sensitivity and specificity.
-- Contributed to development of [SEraster](https://jef.works/SEraster/) as a R/Bioconductor package.
+- Contributed to development of [SEraster](https://jef.works/SEraster/) as an R/Bioconductor package.
 - Used SEraster to characterize immunity hubs in a Visium HD single-cell CRC dataset.
 - Performed spatial hallmark pathway analysis on Visium Murine GBM dataset.
 ---
