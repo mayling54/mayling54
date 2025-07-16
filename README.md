@@ -7,7 +7,7 @@
 I'm a rising junior at Johns Hopkins majoring in Biomedical Engineering (BS/MSE'27 hopefully) and double minoring in Computer Science, and Entrepreneurship and Management. I'm currently a research assistant at the [JEFworks Lab](https://jef.works/) at Hopkins and am interested in learning more about cancer immunotherapy, computational biology as well as applications of AI in contributing to healthcare solutions! Outside of academics, I enjoy singing with my acapella group [Music Dynasty](https://jhu.campusgroups.com/musicdynasty/home/), hanging out with my friends, and taking photography. Feel free to listen to my arrangement and solo cover of [Taylor Swift](https://www.youtube.com/watch?v=7fgtWDq8w3c&list=RD7fgtWDq8w3c&start_radio=1). My photo has been featured on [Nature](https://www.nature.com/articles/d41586-023-01440-z) and my github profile picture was featured on my high school's Spectator Mazagine :)
 
 What i've worked on in the past (mostly BME research):
-- Simulating multi-cellular spots using single-cell spatially resolved transcriptomics data (MERFISH Ovarian Cancer data) to speed up spatial variable gene analysis while still maintaining high detection sensitivity and specificity.
+- Simulated multi-cellular spots using single-cell spatially resolved transcriptomics data (MERFISH Ovarian Cancer data) to speed up spatial variable gene analysis while still maintaining high detection sensitivity and specificity.
 - Contributed to development of [SEraster](https://jef.works/SEraster/) as an R/Bioconductor package.
 - Used SEraster to characterize immunity hubs in a Visium HD single-cell CRC dataset.
 - Performed spatial hallmark pathway analysis on Visium Murine GBM dataset.
