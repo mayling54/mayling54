@@ -11,6 +11,13 @@ What I've worked on in the past (mostly BME research):
 - Contributed to development of [SEraster](https://jef.works/SEraster/) as an R/Bioconductor package.
 - Used SEraster to characterize immunity hubs in a Visium HD single-cell CRC dataset.
 - Performed spatial hallmark pathway analysis on Visium Murine GBM dataset.
+
+5 Facts about me:
+- I use emojis a lot! Angel emoji is a personal fav :D
+- I performed at the [The Giant Egg](https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(China)) when I was 6, so theater baby.
+- Fav artists: Taylor Swift, Adele, Maroon 5, Khalil Fong, Bruno Mars.
+- I wear a lot of purple. My Bose headphone is lilac colored.
+- Double-jointed (no wayyy).
 ---
 Connect with me on [linkedin](https://www.linkedin.com/in/maylingchen54/)!
 ---
